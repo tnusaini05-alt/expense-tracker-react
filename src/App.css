@@ -39,6 +39,7 @@ h1{
   border-radius:15px;
   text-align:center;
   box-shadow:0 4px 10px rgba(0,0,0,0.1);
+  margin: 20px;
 }
 
 .card h3{
@@ -76,12 +77,15 @@ h1{
   border:none;
   border-radius:10px;
   cursor:pointer;
+  margin: 5px;
+
 }
 button {
   padding: 10px 15px;
   border: none;
   border-radius: 8px;
   cursor: pointer;
+  
 }
 
 button:hover {
